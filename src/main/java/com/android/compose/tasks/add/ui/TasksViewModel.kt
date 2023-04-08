@@ -35,6 +35,5 @@ class TasksViewModel @Inject constructor(): ViewModel() {
         _tasks[index] = _tasks[index].let {
             it.copy(selected = !it.selected)
         }
-
     }
 }
