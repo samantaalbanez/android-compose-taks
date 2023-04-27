@@ -1,6 +1,6 @@
-# android-compose-instagram
+# android-compose-tasks
 
-Application for registration of
+Application for registration of tasks
 
 ## Main Technologies
 
